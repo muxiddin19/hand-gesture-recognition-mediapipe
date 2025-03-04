@@ -150,6 +150,9 @@ Kazuhito Takahashi(https://twitter.com/KzhtTkhs)
 
 # Translation and other improvements
 Nikita Kiselov(https://github.com/kinivi)
+
+# Modification on the target task, implementing GPU and other improvements
+Muhiddin Toshpulatov(https://github.com/muxiddin19)
  
 # License 
 hand-gesture-recognition-using-mediapipe is under [Apache v2 license](LICENSE).
