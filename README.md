@@ -6,7 +6,8 @@ program that recognizes hand signs and finger gestures with a simple MLP using t
 <br> [Uploading hand_gesture_demo.gif…]()
 
 ![hand_gesture_demo](https://github.com/user-attachments/assets/b72e7d4f-61da-4b4e-9c88-c6a400a83786)
-![hand_gesture_demo1](https://github.com/user-attachments/assets/e8fd420b-dca6-45a4-ab76-a0e18a50bf6e)
+![hand_gesture_demo1](https://github.com/user-attachments/assets/e8fd420b-dca6-45a4-ab76-a0e18a50bf6e)![hand_gesture_demo2](https://github.com/user-attachments/assets/d5a8e6a0-b8f8-4be1-8809-604b805b8448)
+![hand_gesture_demo1](https://github.com/user-attachments/assets/cf4a65a3-5670-4c0b-80e8-279f268ca0fd)
 ![mqlrf-s6x16](https://user-images.githubusercontent.com/37477845/102222442-c452cd00-3f26-11eb-93ec-c387c98231be.gif)
 
 This repository contains the following contents.
