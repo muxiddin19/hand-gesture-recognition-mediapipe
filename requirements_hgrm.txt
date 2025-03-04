@@ -53,6 +53,7 @@ opencv-python==4.11.0.86
 opt-einsum @ file:///tmp/build/80754af9/opt_einsum_1621500238896/work
 optree @ file:///croot/optree_1723069484006/work
 packaging @ file:///croot/packaging_1734472117206/work
+pandas==2.2.3
 parso @ file:///croot/parso_1733963305961/work
 pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
 pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
@@ -68,6 +69,7 @@ Pygments @ file:///croot/pygments_1684279966437/work
 pyparsing==3.2.1
 PySocks @ file:///tmp/build/80754af9/pysocks_1605305812635/work
 python-dateutil @ file:///croot/python-dateutil_1716495738603/work
+pytz==2025.1
 pyzmq @ file:///croot/pyzmq_1734687138743/work
 requests @ file:///croot/requests_1730999120400/work
 rich @ file:///croot/rich_1732638981168/work
@@ -84,6 +86,7 @@ termcolor @ file:///croot/termcolor_1668084651543/work
 tornado @ file:///croot/tornado_1733960490606/work
 traitlets @ file:///croot/traitlets_1718227057033/work
 typing_extensions @ file:///croot/typing_extensions_1734714854207/work
+tzdata==2025.1
 urllib3 @ file:///croot/urllib3_1737133630106/work
 wcwidth @ file:///Users/ktietz/demo/mc3/conda-bld/wcwidth_1629357192024/work
 Werkzeug @ file:///croot/werkzeug_1737448706492/work
