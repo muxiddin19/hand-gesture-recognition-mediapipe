@@ -10,6 +10,7 @@ charset-normalizer @ file:///croot/charset-normalizer_1721748349566/work
 comm @ file:///croot/comm_1709322850197/work
 contourpy==1.3.0
 cycler==0.12.1
+dagrt==2021.1
 debugpy @ file:///croot/debugpy_1736267418885/work
 decorator @ file:///opt/conda/conda-bld/decorator_1643638310831/work
 exceptiongroup @ file:///croot/exceptiongroup_1706031385326/work
@@ -17,6 +18,7 @@ executing @ file:///opt/conda/conda-bld/executing_1646925071911/work
 flatbuffers @ file:///croot/python-flatbuffers_1722369094438/work
 fonttools==4.56.0
 gast @ file:///tmp/build/80754af9/gast_1637837472536/work
+glfw==2.8.0
 google-pasta @ file:///Users/ktietz/demo/mc3/conda-bld/google-pasta_1630577991354/work
 grpcio @ file:///croot/grpc-split_1716834572340/work
 h5py @ file:///croot/h5py_1737051113867/work
@@ -24,16 +26,19 @@ idna==3.10
 imageio==2.37.0
 importlib_metadata @ file:///croot/importlib_metadata-suite_1732633488278/work
 importlib_resources==6.5.2
+iniconfig==2.0.0
 ipykernel @ file:///croot/ipykernel_1737660677549/work
 ipython @ file:///croot/ipython_1694181358621/work
 jax==0.4.30
 jaxlib==0.4.30
 jedi @ file:///croot/jedi_1733987392413/work
+joblib==1.4.2
 jupyter_client @ file:///croot/jupyter_client_1737570961872/work
 jupyter_core @ file:///croot/jupyter_core_1718818295206/work
 keras @ file:///croot/keras_1733152594514/work
 kiwisolver==1.4.7
 libclang==18.1.1
+Mako==1.3.9
 Markdown @ file:///croot/markdown_1671541909495/work
 markdown-it-py @ file:///croot/markdown-it-py_1684279902645/work
 MarkupSafe @ file:///croot/markupsafe_1738584038848/work
@@ -59,6 +64,7 @@ pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
 pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
 pillow==11.1.0
 platformdirs @ file:///croot/platformdirs_1692205439124/work
+pluggy==1.5.0
 prompt-toolkit @ file:///croot/prompt-toolkit_1704404351921/work
 protobuf==4.25.3
 psutil @ file:///croot/psutil_1736367091698/work
@@ -66,13 +72,19 @@ ptyprocess @ file:///tmp/build/80754af9/ptyprocess_1609355006118/work/dist/ptypr
 pure-eval @ file:///opt/conda/conda-bld/pure_eval_1646925070566/work
 pycparser==2.22
 Pygments @ file:///croot/pygments_1684279966437/work
+pymbolic==2022.2
+PyOpenGL==3.1.9
+pyopenxr==1.1.4501
 pyparsing==3.2.1
 PySocks @ file:///tmp/build/80754af9/pysocks_1605305812635/work
+pytest==8.3.5
 python-dateutil @ file:///croot/python-dateutil_1716495738603/work
+pytools==2024.1.14
 pytz==2025.1
 pyzmq @ file:///croot/pyzmq_1734687138743/work
 requests @ file:///croot/requests_1730999120400/work
 rich @ file:///croot/rich_1732638981168/work
+scikit-learn==1.6.1
 scipy==1.13.1
 six @ file:///tmp/build/80754af9/six_1644875935023/work
 sounddevice==0.5.1
@@ -83,6 +95,8 @@ tensorflow @ file:///opt/conda/conda-bld/tensorflow-split_1729547219394/work/ten
 tensorflow-io-gcs-filesystem==0.37.1
 tensorflow_estimator @ file:///opt/conda/conda-bld/tensorflow-split_1729547219394/work/tensorflow-estimator/wheel_dir/tensorflow_estimator-2.15.0-py2.py3-none-any.whl#sha256=1d2103ac7a9af204bfce1a7786175f8fb3c961b786d78c7390c36f147e9be8fa
 termcolor @ file:///croot/termcolor_1668084651543/work
+threadpoolctl==3.5.0
+tomli==2.2.1
 tornado @ file:///croot/tornado_1733960490606/work
 traitlets @ file:///croot/traitlets_1718227057033/work
 typing_extensions @ file:///croot/typing_extensions_1734714854207/work
